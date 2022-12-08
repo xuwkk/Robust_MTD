@@ -2,7 +2,22 @@
 
 *Real-time detection performance.*
 
-This repo contains the code and extra simulation results supporting the paper 'Robust Moving Target Defence Against False Data Injection Attacks in Power Grids' by [Wangkun Xu](https://www.linkedin.com/in/wangkun-xu/), [Imad M. Jaimoukha](https://www.imperial.ac.uk/people/i.jaimouka), and [Fei Teng](https://www.imperial.ac.uk/people/f.teng). The authors are with the [Control and Power Group](https://www.imperial.ac.uk/electrical-engineering/research/control-and-power/), Dept. of EEE, Imperial College London.
+This repo contains the code and extra simulation results supporting the paper 'Robust Moving Target Defence Against False Data Injection Attacks in Power Grids' by [Wangkun Xu](https://scholar.google.com/citations?user=-RuGgBoAAAAJ&hl=en), [Imad M. Jaimoukha](https://scholar.google.co.uk/citations?user=zzIhI_YAAAAJ&hl=en), and [Fei Teng](https://scholar.google.co.uk/citations?user=aOTMH1EAAAAJ&hl=en). The authors are with the [Control and Power Group](https://www.imperial.ac.uk/electrical-engineering/research/control-and-power/), Dept. of EEE, Imperial College London.
+
+## Citation
+
+This paper has been accepted by IEEE Transactions on Information Forensics and Security (TIFS). If you find this repo useful, please cite our paper:
+```
+@ARTICLE{xu2023robust,
+  author={Xu, Wangkun and Jaimoukha, Imad M. and Teng, Fei},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Robust Moving Target Defence Against False Data Injection Attacks in Power Grids}, 
+  year={2023},
+  volume={18},
+  number={},
+  pages={29-40},
+  doi={10.1109/TIFS.2022.3210864}}
+```
 
 ## Installation
 
